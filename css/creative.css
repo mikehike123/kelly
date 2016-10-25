@@ -544,7 +544,27 @@ body {
         color:#fff;
         background-color: #DC7633;
     }
-    
+    /* end bug fix 3 */
+    footer 
+    {
+        background-color: #DC7633;
+        color:#fff;
+        font-size: 14px;
+            
+    }
+    footer p.hook
+    {
+        font-size:18px;
+    }
+    footer hr.primary
+    {
+        border-color:#fff;
+    }
+    /* contact icons, phone and email links */
+    footer i.fa, footer div.contact-info p
+    {
+        color:#fff;
+    }
       
     
      
