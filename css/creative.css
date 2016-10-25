@@ -545,6 +545,8 @@ body {
         background-color: #DC7633;
     }
     /* end bug fix 3 */
+
+    /*fix for bug 7 */
     footer 
     {
         background-color: #DC7633;
@@ -566,5 +568,4 @@ body {
         color:#fff;
     }
       
-    
-     
+    /* end bug 7 fix */     
