@@ -208,7 +208,6 @@ div.copyrights p
         line-height: 1.2;
         /*list-style-type:none; */
         margin-top: 15px;
-        font-style: italic;
     }
 
 	.testimonial.testimonial--with-img {
@@ -371,4 +370,10 @@ img {
     background-color: #0f434c;
 }
 
+.bullet {font-size: 3em; line-height: 0.5em;}
+ul span {font-size: 18px; vertical-align: middle;}
+
+span.IN-none {
+    display: none;
+}
 
