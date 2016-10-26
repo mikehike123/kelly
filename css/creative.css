@@ -586,8 +586,12 @@ body {
     {
         color:#fff;
     }
+    .navbar-toggle {
+        background-color: #ddd;
+    }
     body
     {
          background-color: #dad6d6; 
     }
-    /* end bug 7 fix */     
+    /* end bug 7 fix */ 
+
